@@ -1,3 +1,9 @@
+# bigquery_oauth_python
+
+[Initializing the gcloud CLI](https://cloud.google.com/sdk/docs/install-sdk#initializing_the)
+[Set up Application Default Credentials](https://cloud.google.com/docs/authentication/provide-credentials-adc#how-to)
+[BigQuery API Client Libraries](https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-usage-python)
+
 ## Setup to Run Locally using Dev Containers
 
 #### Prerequisites: 
