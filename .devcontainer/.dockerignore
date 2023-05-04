@@ -1,0 +1,15 @@
+target/
+dbt_packages/
+dbt-env/
+logs/
+.env
+.venv/
+venv/
+.vscode/
+*.ipynb
+.DS_Store
+*.zip
+zip/
+secrets.json
+keyfile.json
+*.bak
