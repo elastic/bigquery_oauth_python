@@ -29,6 +29,7 @@ Go through the prompts in the terminal:
 - Authenticate via Google oauth
 - Back in the terminal, Select `elastic-bi` as your project
 - Answer No to `Do you want to configure a default Compute Region and Zone?`
+
 Next:
 - Click `open` on the prompt
 - Authenticate
